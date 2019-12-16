@@ -1,0 +1,5 @@
+2Limao1.200000 4
+1Arroz12.300000 2
+4Manteiga5.000000 7
+3Esperanca0.100000 3
+5Limonada3.000000 2

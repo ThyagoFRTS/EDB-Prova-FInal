@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1544538116 source:c:\users\hazut\onedrive\documentos\eng. de computação\2p\edb\in cb\avaliação\prova3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structs.h"
+	<string.h>
+	<locale.h>
+
+1544538356 source:c:\users\hazut\onedrive\documentos\eng. de computação\2p\edb\in cb\avaliação\prova3\func_listfila.c
+	<stdio.h>
+	<stdlib.h>
+	"structs.h"
+
+1544417035 c:\users\hazut\onedrive\documentos\eng. de computação\2p\edb\in cb\avaliação\prova3\structs.h
+
+1544146525 source:c:\users\hazut\onedrive\documentos\eng. de computação\2p\edb\in cb\avaliação\prova3\func_arvavl_client.c
+	<stdio.h>
+	<stdlib.h>
+	"structs.h"
+	<string.h>
+
+1544314270 source:c:\users\hazut\onedrive\documentos\eng. de computação\2p\edb\in cb\avaliação\prova3\func_arvavl_produto.c
+	<stdio.h>
+	<stdlib.h>
+	"structs.h"
+	<string.h>
+
+1544233571 source:c:\users\hazut\onedrive\documentos\eng. de computação\2p\edb\in cb\avaliação\prova3\carregarstructs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structs.h"
+
+1544538486 source:c:\users\hazut\onedrive\documentos\eng. de computação\2p\edb\in cb\avaliação\prova3\vender_e_amigos.c
+	<stdio.h>
+	<stdlib.h>
+	"structs.h"
+	<string.h>
+
+1544317091 source:c:\users\hazut\onedrive\documentos\eng. de computação\2p\edb\in cb\avaliação\prova3\historico.c
+	<stdio.h>
+	<stdlib.h>
+	"structs.h"
+	<string.h>
+
+1544231380 source:c:\users\hazut\onedrive\documentos\eng. de computação\2p\edb\in cb\avaliação\prova3\arquivovazio.c
+	<stdio.h>
+	<stdlib.h>
+	"structs.h"
+	<string.h>
+
